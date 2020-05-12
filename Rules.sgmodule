@@ -1,32 +1,32 @@
 #!name=Rules-分流规则
 #!desc=该模块内有本人使用的规则
-#!system=ios
+
 
 [Rule]
 RULE-SET,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Google.list,Google
-# 广告拦截
+# >广告拦截
 RULE-SET,https://raw.githubusercontent.com/nzw9314/Surge/master/Ruleset/Tide.list,Block ADs
 RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Liby.list,Block ADs
-# Youtube
+# >Youtube
 RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/YouTube.list,YouTube
-# Netflix
+# >Netflix
 RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/Netflix.list,Netflix
-# Telegram
+# >Telegram
 RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/Telegram.list,Telegram
-# PayPal
+# >PayPal
 RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/PayPal.list,PayPal
-# Speedtest
+# >Speedtest
 RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/Speedtest.list,Speedtest
-# Apple
+# >Apple
 RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Apple_CDN.list,Apple
 RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Apple_API.list,Apple
-# 国内网站
-RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Domestic.list,China
-# 国外视频
+# >国内网站
+RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Domestic.list,Chinese
+# >国外视频
 RULE-SET,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/ForeignMedia.list,Foreign Video
-# 国外网站
+# >国外网站
 RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Global.list,Foreign Websites
-# 国内视频
+# >国内视频
 RULE-SET,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/DomesticMedia.list,Chinese Video
 GEOIP,CN,DIRECT
 FINAL,PROXY
