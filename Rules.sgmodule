@@ -1,5 +1,5 @@
 #!name=Rules By Rex
-#!desc=该模块为Rex使用的分流规则
+#!desc=Rex自用的分流规则
 
 
 [Rule]
