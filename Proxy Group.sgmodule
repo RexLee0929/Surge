@@ -1,5 +1,5 @@
 #!name=Proxy Group By Rex
-#!desc=该模块为Rex使用的策略组
+#!desc=Rex自用的策略组
 
 
 [Proxy Group]
