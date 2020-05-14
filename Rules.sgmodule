@@ -5,7 +5,7 @@
 [Rule]
 
 
-RULE-SET,https://raw.githubusercontent.com/AGWA5783/Profiles/master/Quantumult/X/Filter/Media/NeteaseMusic.list,🎸
+RULE-SET,https://raw.githubusercontent.com/AGWA5783/Profiles/master/Quantumult/X/Filter/Media/NeteaseMusic.list , 🎸
 
 # >google
 RULE-SET,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Google.list,Google
