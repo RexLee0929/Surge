@@ -3,6 +3,9 @@
 
 
 [Rule]
+# >网易云灰色歌曲
+RULE-SET,https://raw.githubusercontent.com/demo2099/QTXScripts/master/filter/NeteaseMusic.list,🎸
+# >google
 RULE-SET,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Google.list,Google
 # >广告拦截
 RULE-SET,https://raw.githubusercontent.com/nzw9314/Surge/master/Ruleset/Tide.list,Block ADs
