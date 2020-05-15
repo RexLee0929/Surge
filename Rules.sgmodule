@@ -3,7 +3,8 @@
 
 
 [Rule]
-
+# >Pornhub
+RULE-SET, https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/Pornhub.list,Pornhub
 # >google
 RULE-SET,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Google.list,Google
 # >Youtube
