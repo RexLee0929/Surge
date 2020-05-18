@@ -3,6 +3,8 @@
 
 
 [Rule]
+# >解锁网易云灰色歌曲
+RULE-SET,https://raw.githubusercontent.com/adxJiaojiao/wyy/master/surge/edu.bid.list,WWY
 # >Pornhub
 RULE-SET, https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/Pornhub.list,Pornhub
 # >google
