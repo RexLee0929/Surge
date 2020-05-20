@@ -33,7 +33,3 @@ RRtv_channel.js = type=http-response,requires-body=true,pattern=^https?:\/\/api\
 # 彩云天气 Vip
 彩云天气 = type=http-response,pattern=https://biz.caiyunapp.com/v2/user\?app_name=weather,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/Surge/master/Script/caiyun.js
 
-
-
-[MITM]
-hostname= %APPEND% *.googlevideo.com, trade-acs.m.taobao.com, api.m.jd.com, *.googlevideo.com, s.youtube.com, www.youtube.com, youtubei.googleapis.com, api.rr.tv, api.shimo.im, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, mp.weixin.qq.com, api.bilibili.com, api.live.bilibili.com, *.video.qq.com, tieba.baidu.com, nebula.kuaishou.com, h5.ele.me, biz.caiyunapp.com,
