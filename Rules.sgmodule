@@ -3,6 +3,8 @@
 
 
 [Rule]
+# > Spotify
+RULE-SET,https://raw.githubusercontent.com/nzw9314/Rules/master/Surge/Surge%203/Provider/Media/Spotify.list,Spotify
 # >解锁网易云灰色歌曲
 RULE-SET,https://raw.githubusercontent.com/adxJiaojiao/wyy/master/surge/edu.bid.list,WWY
 # >Pornhub
