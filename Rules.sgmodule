@@ -9,10 +9,10 @@ RULE-SET,https://raw.githubusercontent.com/nzw9314/Rules/master/Surge/Surge%203/
 RULE-SET,https://raw.githubusercontent.com/adxJiaojiao/wyy/master/surge/edu.bid.list,WWY
 # >Pornhub
 RULE-SET, https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/Pornhub.list,Pornhub
-# >google
-RULE-SET,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Google.list,Google
 # >Youtube
 RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/YouTube.list,YouTube
+# >google
+RULE-SET,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Google.list,Google
 # >Netflix
 RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/Netflix.list,Netflix
 # >Telegram
