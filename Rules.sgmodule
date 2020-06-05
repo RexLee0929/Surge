@@ -42,5 +42,8 @@ RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Glo
 RULE-SET,https://raw.githubusercontent.com/nzw9314/Surge/master/Ruleset/Tide.list,ADs
 RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Liby.list,ADs
 
+# >屏蔽更新
+RULE-SET,https://raw.githubusercontent.com/nzw9314/Surge/master/Ruleset/BlockOTA.list,ADs
+
 GEOIP,CN,DIRECT
 FINAL,PROXY
