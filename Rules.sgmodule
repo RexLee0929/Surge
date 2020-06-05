@@ -3,6 +3,13 @@
 
 
 [Rule]
+# [定向]
+# >PrimeVideo
+RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/PrimeVideo.list,PrimeVideo
+# >Hulu
+RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/Hulu.list,Hulu
+# >HBO
+RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/HBO.list,HBO
 # >Disneyplus
 RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/DisneyPlus.list,Disneyplus
 # > Spotify
@@ -26,6 +33,8 @@ RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/App
 RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Apple_API.list,Apple
 # >google
 RULE-SET,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Google.list,Google
+
+# [不定向]
 # >国外网站
 RULE-SET,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/ForeignMedia.list,Foreign Websites
 RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Global.list,Foreign Websites
