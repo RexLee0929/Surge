@@ -3,45 +3,44 @@
 
 
 [Rule]
-# [定向]
-# >PrimeVideo
-RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/PrimeVideo.list,PrimeVideo
-# >Hulu
-RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/Hulu.list,Hulu
-# >HBO
-RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/HBO.list,HBO
-# >Disneyplus
-RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/DisneyPlus.list,Disneyplus
-# > Spotify
-RULE-SET,https://raw.githubusercontent.com/nzw9314/Rules/master/Surge/Surge%203/Provider/Media/Spotify.list,Spotify
-# >解锁网易云灰色歌曲
-RULE-SET,https://raw.githubusercontent.com/adxJiaojiao/wyy/master/surge/edu.bid.list,WWY
-# >Pornhub
-RULE-SET, https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/Pornhub.list,Pornhub
-# >Youtube
-RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/YouTube.list,YouTube
-# >Netflix
-RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/Netflix.list,Netflix
-# >Telegram
-RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/Telegram.list,Telegram
-# >PayPal
-RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/PayPal.list,PayPal
-# >Speedtest
-RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Sub/Speedtest.list,Speedtest
-# >Apple
-RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Apple_CDN.list,Apple
-RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Apple_API.list,Apple
-# >google
-RULE-SET,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Google.list,Google
 
-# [不定向]
+# >Bilibili
+RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Bilibili.list,bilibili
+# >Amazon
+RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Amazon.list,Amazon
+# >Hulu
+RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Hulu.list,Hulu
+# >HBO
+RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/HBO.list,HBO
+# >Disneyplus
+RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Disney%20Plus.list,Disneyplus
+# > Spotify
+RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Spotify.list,Spotify
+# >Netease Music
+RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Netease%20Music.list,WWY
+# >Pornhub
+RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Pornhub.list,Pornhub
+# >Youtube
+RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/YouTube.list,YouTube
+# >Netflix
+RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Netflix.list,Netflix
+# >Telegram
+RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Telegram.list,Telegram
+# >PayPal
+RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/PayPal.list,PayPal
+# >Speedtest
+RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Speedtest.list,Speedtest
+# >Apple
+RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Apple.list,Apple
+# >Microsoft
+RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Microsoft.list,Microsoft
 # >国外网站
-RULE-SET,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/ForeignMedia.list,Foreign Websites
-RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Global.list,Foreign Websites
+RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Proxy.list,Foreign Websites
 # >广告拦截
 RULE-SET,https://raw.githubusercontent.com/nzw9314/Surge/master/Ruleset/Tide.list,ADs
 RULE-SET,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Liby.list,ADs
-
+# Ads in Video apps
+RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Reject.list,ADs
 # >屏蔽更新
 RULE-SET,https://raw.githubusercontent.com/nzw9314/Surge/master/Ruleset/BlockOTA.list,ADs
 
