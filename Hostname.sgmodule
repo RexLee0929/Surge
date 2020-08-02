@@ -1,7 +1,0 @@
-#!name=Hostname By Rex
-#!desc=Rex自用
-
-
-
-[MITM]
-hostname= trade-acs.m.taobao.com, api.m.jd.com, *.googlevideo.com, s.youtube.com, www.youtube.com, youtubei.googleapis.com, api.rr.tv, api.shimo.im, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, mp.weixin.qq.com, api.bilibili.com, api.live.bilibili.com, *.video.qq.com, tieba.baidu.com, nebula.kuaishou.com, h5.ele.me, biz.caiyunapp.com, ios.prod.ftl.netflix.com
