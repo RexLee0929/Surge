@@ -43,4 +43,4 @@ crazyJoy任务 = type=cron,cronexp="0 10 7 * * *",wake-system=1,timeout=3600,scr
 
 
 [MITM]
-hostname = veishop.iboxpay.com, api.m.jd.com, draw.jdfcloud.com, jdjoy.jd.com,nebula.kuaishou.com,
+hostname = veishop.iboxpay.com, api.m.jd.com, draw.jdfcloud.com, jdjoy.jd.com,nebula.kuaishou.com,*.snssdk.com,api5-normal-c-*.amemv.com,api3-normal-c-*.snssdk.com,*.youth.cn, ios.baertt.com,bububao.duoshoutuan.com,obwsa.ximalaya.com
