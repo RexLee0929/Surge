@@ -3,14 +3,11 @@
 #!system=ios
 
 [Script]
-火山视频极速版 = type=cron,cronexp="0 */30 * * * *",wake-system=1,timeout=36000,script-path=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/hotsoon.js
 笑谱 = type=cron,cronexp="10 */5 * * * *",wake-system=1,timeout=36000,script-path=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js
 抖音极速版 = type=cron,cronexp="5,35 8-23 * * *",wake-system=1,timeout=36000,script-path=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/dyjsb.js
-今日头条极速版 = type=cron,cronexp="5,35 8-23 * * *",wake-system=1,timeout=36000,script-path=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/jrtt.js
 快手 = type=cron,cronexp="35 5 0 * * *",script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js
 中青看点 = type=cron,cronexp="35 5 0 * * *",wake-system=1,timeout=36000,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
 步步宝 = type=cron,cronexp="0 8-23/2 * * *",wake-system=1,timeout=36000,script-path=https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js
-喜马拉雅 = type=cron,cronexp="0 6 0 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js
 京东多合一签到 = type=cron,cronexp="1 0 0 * * *",wake-system=1,timeout=60,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
 签到领现金 = type=cron,cronexp="0 2 0 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_cash.js
 点点券 = type=cron,cronexp="10 0,20 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_necklace.js
@@ -43,4 +40,4 @@ crazyJoy任务 = type=cron,cronexp="0 10 7 * * *",wake-system=1,timeout=3600,scr
 
 
 [MITM]
-hostname = veishop.iboxpay.com, api.m.jd.com, draw.jdfcloud.com, jdjoy.jd.com,nebula.kuaishou.com,*.snssdk.com,api5-normal-c-*.amemv.com,api3-normal-c-*.snssdk.com,*.youth.cn, ios.baertt.com,bububao.duoshoutuan.com,obwsa.ximalaya.com
+hostname = veishop.iboxpay.com, api.m.jd.com, draw.jdfcloud.com, jdjoy.jd.com,nebula.kuaishou.com,*.snssdk.com,api5-normal-c-*.amemv.com,*.youth.cn, ios.baertt.com,bububao.duoshoutuan.com,    
