@@ -30,4 +30,4 @@
 ^https:\/\/duckduckgo.com\/\?q=ddg\+([^&]+).+ https://duckduckgo.com/?ia=about&q=$1 302
 
 [MITM]
-hostname = duckduckgo.com
+hostname = duckduckgo.com,  %APPEND% duckduckgo.com
