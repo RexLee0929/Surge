@@ -1,0 +1,8 @@
+#!name=WiFi_Access
+#!desc=WiFi访问
+#!system=ios
+
+# WI-FI ACCESS
+allow-wifi-access = true
+wifi-access-http-port = 20020
+wifi-access-socks5-port = 20021
