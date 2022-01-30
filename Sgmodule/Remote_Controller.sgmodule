@@ -8,4 +8,3 @@ external-controller-access = 123456789@0.0.0.0:10086
 http-api = 123456789@0.0.0.0:10010
 http-api-tls = true
 http-api-web-dashboard = false
-allow-wifi-access = true
