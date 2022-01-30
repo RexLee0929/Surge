@@ -2,6 +2,7 @@
 #!desc=远程控制器
 #!system=ios
 
+[General]
 # Remote Controller
 external-controller-access = 123456789@0.0.0.0:10086
 http-api = 123456789@0.0.0.0:10010
