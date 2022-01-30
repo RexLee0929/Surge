@@ -1,0 +1,6 @@
+#!name=Wi-Fi Assist
+#!desc=增强版WiFi助理
+#!system=ios
+
+[General]
+wifi-assist = true
