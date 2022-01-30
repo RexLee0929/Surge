@@ -2,6 +2,7 @@
 #!desc=WiFi访问
 #!system=ios
 
+[General]
 # WI-FI ACCESS
 allow-wifi-access = true
 wifi-access-http-port = 20020
