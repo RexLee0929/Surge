@@ -1,5 +1,5 @@
 #!name=Historical price temp
-#!desc=Display commodity historical price. 
+#!desc=历史价格
 #!system=ios 
 [Script]
 
